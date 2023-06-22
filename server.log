@@ -1,0 +1,22 @@
+DEBUG [2023-06-21 15:37:45,823]: Logging server run with the following arguments: 
+{'--help': False,
+ '--mongoport': None,
+ '--port': None,
+ '--testing': False,
+ '--version': False}
+DEBUG [2023-06-21 15:37:45,824]: No port given, using default of 8765
+DEBUG [2023-06-21 15:41:38,118]: Logging server run with the following arguments: 
+{'--help': False,
+ '--mongoport': None,
+ '--port': None,
+ '--testing': False,
+ '--version': False}
+DEBUG [2023-06-21 15:41:38,118]: No port given, using default of 8765
+DEBUG [2023-06-21 15:43:57,925]: Logging server run with the following arguments: 
+{'--help': False,
+ '--mongoport': None,
+ '--port': None,
+ '--testing': False,
+ '--version': False}
+DEBUG [2023-06-21 15:43:57,925]: No port given, using default of 8765
+DEBUG [2023-06-21 15:43:57,937]: Using selector: KqueueSelector

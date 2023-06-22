@@ -1,0 +1,1 @@
+./dorun.py --waybackTime 20110930 -p 3 -t 40 -m wayback -n 'testing this is not a real run' -l 0 -s ws://localhost:8765 -r 0 --platformLocation /Users/jakegrossman/Downloads/trackingExcavator/platform --measureLocation /Users/jakegrossman/Downloads/trackingExcavator/Measure testinput.txt

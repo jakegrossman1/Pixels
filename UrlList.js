@@ -1,0 +1,3 @@
+cfg.urls = [
+    "google.com"
+]
